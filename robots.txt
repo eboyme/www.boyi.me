@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://eboyme.github.io/www.boyi.me/sitemap.xml 
